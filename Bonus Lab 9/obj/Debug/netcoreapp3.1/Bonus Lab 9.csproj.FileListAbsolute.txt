@@ -1,0 +1,110 @@
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Bonus Lab 9.exe
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Bonus Lab 9.deps.json
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Bonus Lab 9.runtimeconfig.json
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Bonus Lab 9.runtimeconfig.dev.json
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Bonus Lab 9.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Bonus Lab 9.pdb
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Bonus Lab 9.Views.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Bonus Lab 9.Views.pdb
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Bonus Lab 9.csprojAssemblyReference.cache
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\staticwebassets\Bonus Lab 9.StaticWebAssets.Manifest.cache
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\staticwebassets\Bonus Lab 9.StaticWebAssets.xml
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Bonus Lab 9.RazorAssemblyInfo.cache
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Bonus Lab 9.RazorAssemblyInfo.cs
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Bonus Lab 9.AssemblyInfoInputs.cache
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Bonus Lab 9.AssemblyInfo.cs
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Bonus Lab 9.TagHelpers.input.cache
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Bonus Lab 9.TagHelpers.output.cache
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Bonus Lab 9.RazorCoreGenerate.cache
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Bonus Lab 9.RazorTargetAssemblyInfo.cache
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Bonus Lab 9.RazorTargetAssemblyInfo.cs
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Bonus Lab 9.Views.pdb
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Bonus Lab 9.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Bonus Lab 9.pdb
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Bonus Lab 9.csproj.CopyComplete
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Bonus Lab 9.MvcApplicationPartsAssemblyInfo.cache
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\Ishwa\Documents\Grand Circus Files\Bonus Lab 9\Bonus Lab 9\obj\Debug\netcoreapp3.1\Razor\Views\Home\Portfolio.cshtml.g.cs
